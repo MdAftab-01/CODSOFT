@@ -4,8 +4,8 @@
 ➡️ The objective of this project was to analyze the Titanic dataset and build a machine learning model to predict whether a passenger survived (1) or did not survive (0).
 
 🔹 Step-by-Step Project Workflow
-📂 1. Data Collection
 
+📂 1. Data Collection
 📥 Loaded the Titanic dataset containing passenger details such as:
 Age
 Gender
